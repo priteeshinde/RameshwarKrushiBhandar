@@ -8,10 +8,26 @@
     overflow-x: hidden;
 }
 
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 2;
+    position:relative;
+} 
+
 h1
 {
     font-family: 'Dancing Script', cursive;
     font-family: 'Poppins', sans-serif;
+}
+
+h2
+{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight: 200;
+    color: blueviolet;
 }
 
 .carousel-item img{
